@@ -7,7 +7,7 @@
 LLAMA2-based Recommendation System for Process Safety Enhancement
 Utilizing LLAMA2, I developed a recommendation system for the petrochemical industry to enhance process safety. This system applies sophisticated algorithms and techniques to analyze industry-specific data, offering customized suggestions for improving safety measures and protocols.
 
-<img src="images/Recommendation system.jpg?raw=true" />
+<img src="images/Recommendation system.jpg?raw=true" width="300" height="200" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
