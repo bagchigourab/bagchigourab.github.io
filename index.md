@@ -40,7 +40,7 @@ In this project, I developed a chatbot using LLAMA2 and LoRA to leverage their r
 ### Multilevel Classification for Text Data
 In this project I have developed a Novel methodology for classifying text data into specific levels/features.
 
-<img src="images/Multilevel.jpg?raw=true"/>
+<img src="images/Multilevel .jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 
