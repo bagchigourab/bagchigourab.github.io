@@ -2,6 +2,16 @@
 
 ---
 
+### LoRa fine-tune a SDXL model to generate a specific art styled images
+
+Utilizing LoRa, fine-tune an SDXL model to generate art-styled images with precision and efficiency, enhancing artistic expression through targeted neural network adjustments.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Kaggle](https://www.kaggle.com/code/bagchigourab/heuristai)
+
+---
+
 ### Automated Recommendation System using LLM
 
 LLAMA2-based Recommendation System for Process Safety Enhancement
