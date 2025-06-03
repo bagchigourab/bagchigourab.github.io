@@ -1,6 +1,15 @@
 ## Selected projects in data science, machine learning and NLP
 
 ---
+### RAG Research Chatbot
+
+RAG based research article summarization chatbot.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Github](https://github.com/bagchigourab/Research-Chatbot)
+
+---
 
 ### LoRa fine-tune a SDXL model to generate a specific art styled images
 
